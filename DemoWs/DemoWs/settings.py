@@ -126,3 +126,4 @@ CHANNEL_LAYERS = {
         "BACKEND": "channels.layers.InMemoryChannelLayer"
     }
 }
+SESSION_COOKIE_SECURE = True
